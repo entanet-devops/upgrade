@@ -1,0 +1,20 @@
+galaxy_info:
+  author: DevOps
+  description: Upgrade Ubuntu OS to latest patch set
+  company: Entanet
+
+  license: BSD
+
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - bionic
+
+  galaxy_tags:
+    - upgrade
+    - system
+    - entanet
+
+dependencies: []
